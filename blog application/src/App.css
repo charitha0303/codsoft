@@ -1,0 +1,13 @@
+.app {
+  background: url('https://i.imgur.com/Dh1UoAQ.png');
+  background-size: inherit;
+  min-height: 100vh;
+}
+
+.cont {
+  background-color: #e5e6de;
+  min-width: 130px;
+  border: 1px solid transparent;
+  margin-bottom: 20px;
+}
+
